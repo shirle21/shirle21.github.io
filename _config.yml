@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Alice Shirley / Home"
+title                    : "Alice Shirley - Portfolio"
+description              : "Projects and Resume of Alice Shirley"
 title_separator          : "-"
 name                     : &name "Alice Shirley"
 description              : &description "Data Scientist & Statistician interested in the intersect of Biology and Computing"
@@ -28,7 +29,7 @@ author:
   employer         : "Michigan State University"
   uri              : # URL
   email            : "alicejshirley@outlook.com" 
-
+  github           : "shirle21"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
